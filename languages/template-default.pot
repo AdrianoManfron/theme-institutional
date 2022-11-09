@@ -1,0 +1,2019 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Template Default v1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2022-10-04 16:30-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Adriano "
+"Manfron <adriano@manfron."
+"com.br>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.1.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: 404.php:7
+msgid "Page not found!"
+msgstr ""
+
+#: 404.php:8
+msgid ""
+"Unfortunately, the page "
+"you tried to readh does "
+"not exist on this site."
+msgstr ""
+
+#: 404.php:11
+msgid ""
+"How about doing a search?"
+msgstr ""
+
+#: 404.php:14
+msgid "Latest Posts"
+msgstr ""
+
+#: archive.php:20
+#: general-template.php:27
+#: index.php:19
+#: parts/content-home-blog.php:28
+msgid ""
+"Nothing yet to be "
+"displayed!"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid ""
+"One thought on &ldquo;"
+"%s&rdquo;"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid ""
+"%1$s thought on &ldquo;"
+"%2$s&rdquo;"
+msgid_plural ""
+"%1$s thoughts on &ldquo;"
+"%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:71
+msgid ""
+"Comments are closed."
+msgstr ""
+
+#: functions.php:24
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:25
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:57
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:59
+msgid ""
+"This is the Blog "
+"Sidebar. You can add "
+"your widgets here."
+msgstr ""
+
+#: functions.php:69
+msgid "Social Medias"
+msgstr ""
+
+#: functions.php:71
+msgid ""
+"This is the Social "
+"Medias. You can add your "
+"widgets here."
+msgstr ""
+
+#: functions.php:81
+msgid "Maps"
+msgstr ""
+
+#: functions.php:83
+msgid ""
+"This is the Map. You can "
+"add your widgets here."
+msgstr ""
+
+#: functions.php:93
+msgid "Contact"
+msgstr ""
+
+#: functions.php:95
+msgid ""
+"This is the Contact the "
+"site. You can add your "
+"shortcode here."
+msgstr ""
+
+#: inc/customizer.php:8
+msgid "Top Bar Settings"
+msgstr ""
+
+#: inc/customizer.php:9
+msgid ""
+"Add content top bar here"
+msgstr ""
+
+#: inc/customizer.php:17
+#: inc/customizer.php:1896
+msgid "Address Here"
+msgstr ""
+
+#: inc/customizer.php:24
+#: inc/customizer.php:1903
+msgid "Address"
+msgstr ""
+
+#: inc/customizer.php:25
+#: inc/customizer.php:1904
+msgid ""
+"Please, type your "
+"address here"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Operation Here"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Operation"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid ""
+"Please, type your "
+"operation here"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Phone Here"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid ""
+"Please, type your phone "
+"here"
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid ""
+"Add content your banner "
+"here"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Banner"
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "Banner Title"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid ""
+"Please, type your banner "
+"title here"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid ""
+"Description text banner "
+"subtitle"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid ""
+"Banner subtitle Area"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid ""
+"Please, type your "
+"description text banner "
+"subtitle here"
+msgstr ""
+
+#: inc/customizer.php:119
+#: inc/customizer.php:126
+msgid "Banner Text Button"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid ""
+"Please, type your banner "
+"text button here"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid ""
+"Link the banner button"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid ""
+"Please, type your banner "
+"link button here"
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Banner Image height"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid ""
+"Please, type your banner "
+"image height here"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Banner Image"
+msgstr ""
+
+#: inc/customizer.php:484
+msgid "About Settings"
+msgstr ""
+
+#: inc/customizer.php:485
+msgid ""
+"Add content about us here"
+msgstr ""
+
+#: inc/customizer.php:494
+msgid "About us"
+msgstr ""
+
+#: inc/customizer.php:501
+msgid "About Title"
+msgstr ""
+
+#: inc/customizer.php:502
+msgid ""
+"Please, type your about "
+"title here"
+msgstr ""
+
+#: inc/customizer.php:513
+msgid ""
+"Description text about us"
+msgstr ""
+
+#: inc/customizer.php:520
+msgid "About Text Area"
+msgstr ""
+
+#: inc/customizer.php:521
+msgid ""
+"Please, type your "
+"description text about "
+"us here"
+msgstr ""
+
+#: inc/customizer.php:540
+msgid "About Image height"
+msgstr ""
+
+#: inc/customizer.php:541
+msgid ""
+"Please, type your about "
+"image height here"
+msgstr ""
+
+#: inc/customizer.php:559
+msgid "About Image"
+msgstr ""
+
+#: inc/customizer.php:569
+msgid "Team Settings"
+msgstr ""
+
+#: inc/customizer.php:570
+msgid ""
+"Add content team here"
+msgstr ""
+
+#: inc/customizer.php:578
+#: inc/customizer.php:941
+msgid "Title Here"
+msgstr ""
+
+#: inc/customizer.php:585
+#: inc/customizer.php:948
+#: inc/customizer.php:1569
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:586
+#: inc/customizer.php:949
+msgid ""
+"Please, type your title "
+"here"
+msgstr ""
+
+#: inc/customizer.php:596
+msgid ""
+"Description text our team"
+msgstr ""
+
+#: inc/customizer.php:603
+msgid "Team Text Area"
+msgstr ""
+
+#: inc/customizer.php:604
+msgid ""
+"Please, type your "
+"description text our "
+"team here"
+msgstr ""
+
+#: inc/customizer.php:621
+msgid "Team 1 Image"
+msgstr ""
+
+#: inc/customizer.php:631
+msgid "Name 1 Here"
+msgstr ""
+
+#: inc/customizer.php:638
+msgid "Name 1"
+msgstr ""
+
+#: inc/customizer.php:639
+msgid ""
+"Please, type your name 1 "
+"here"
+msgstr ""
+
+#: inc/customizer.php:649
+msgid ""
+"Description text about "
+"team 1"
+msgstr ""
+
+#: inc/customizer.php:656
+msgid "About Team 1"
+msgstr ""
+
+#: inc/customizer.php:657
+msgid ""
+"Please, type your "
+"description text about "
+"team 1 here"
+msgstr ""
+
+#: inc/customizer.php:674
+msgid "Team 2 Image"
+msgstr ""
+
+#: inc/customizer.php:684
+msgid "Name 2 Here"
+msgstr ""
+
+#: inc/customizer.php:691
+msgid "Name 2"
+msgstr ""
+
+#: inc/customizer.php:692
+msgid ""
+"Please, type your name 2 "
+"here"
+msgstr ""
+
+#: inc/customizer.php:702
+msgid ""
+"Description text about "
+"team 2"
+msgstr ""
+
+#: inc/customizer.php:709
+msgid "About Team 2"
+msgstr ""
+
+#: inc/customizer.php:710
+msgid ""
+"Please, type your "
+"description text about "
+"team 2 here"
+msgstr ""
+
+#: inc/customizer.php:727
+msgid "Team 3 Image"
+msgstr ""
+
+#: inc/customizer.php:737
+msgid "Name 3 Here"
+msgstr ""
+
+#: inc/customizer.php:744
+msgid "Name 3"
+msgstr ""
+
+#: inc/customizer.php:745
+msgid ""
+"Please, type your name 3 "
+"here"
+msgstr ""
+
+#: inc/customizer.php:755
+msgid ""
+"Description text about "
+"team 3"
+msgstr ""
+
+#: inc/customizer.php:762
+msgid "About Team 3"
+msgstr ""
+
+#: inc/customizer.php:763
+msgid ""
+"Please, type your "
+"description text about "
+"team 3 here"
+msgstr ""
+
+#: inc/customizer.php:780
+msgid "Team 4 Image"
+msgstr ""
+
+#: inc/customizer.php:790
+msgid "Name 4 Here"
+msgstr ""
+
+#: inc/customizer.php:797
+msgid "Name 4"
+msgstr ""
+
+#: inc/customizer.php:798
+msgid ""
+"Please, type your name 4 "
+"here"
+msgstr ""
+
+#: inc/customizer.php:808
+msgid ""
+"Description text about "
+"team 4"
+msgstr ""
+
+#: inc/customizer.php:815
+msgid "About Team 4"
+msgstr ""
+
+#: inc/customizer.php:816
+msgid ""
+"Please, type your "
+"description text about "
+"team 4 here"
+msgstr ""
+
+#: inc/customizer.php:833
+msgid "Team 5 Image"
+msgstr ""
+
+#: inc/customizer.php:843
+msgid "Name 5 Here"
+msgstr ""
+
+#: inc/customizer.php:850
+msgid "Name 5"
+msgstr ""
+
+#: inc/customizer.php:851
+msgid ""
+"Please, type your name 5 "
+"here"
+msgstr ""
+
+#: inc/customizer.php:861
+msgid ""
+"Description text about "
+"team 5"
+msgstr ""
+
+#: inc/customizer.php:868
+msgid "About Team 5"
+msgstr ""
+
+#: inc/customizer.php:869
+msgid ""
+"Please, type your "
+"description text about "
+"team 5 here"
+msgstr ""
+
+#: inc/customizer.php:886
+msgid "Team 6 Image"
+msgstr ""
+
+#: inc/customizer.php:896
+msgid "Name 6 Here"
+msgstr ""
+
+#: inc/customizer.php:903
+msgid "Name 6"
+msgstr ""
+
+#: inc/customizer.php:904
+msgid ""
+"Please, type your name 6 "
+"here"
+msgstr ""
+
+#: inc/customizer.php:914
+msgid ""
+"Description text about "
+"team 6"
+msgstr ""
+
+#: inc/customizer.php:921
+msgid "About Team 6"
+msgstr ""
+
+#: inc/customizer.php:922
+msgid ""
+"Please, type your "
+"description text about "
+"team 6 here"
+msgstr ""
+
+#: inc/customizer.php:932
+msgid "Services Settings"
+msgstr ""
+
+#: inc/customizer.php:933
+msgid ""
+"Add content services here"
+msgstr ""
+
+#: inc/customizer.php:959
+msgid ""
+"Description text your "
+"services"
+msgstr ""
+
+#: inc/customizer.php:966
+msgid "Services Text Area"
+msgstr ""
+
+#: inc/customizer.php:967
+msgid ""
+"Please, type your "
+"description text your "
+"services here"
+msgstr ""
+
+#: inc/customizer.php:984
+msgid "Service 1 Image"
+msgstr ""
+
+#: inc/customizer.php:994
+msgid "Name service 1 Here"
+msgstr ""
+
+#: inc/customizer.php:1001
+msgid "Name service 1"
+msgstr ""
+
+#: inc/customizer.php:1002
+msgid ""
+"Please, type your name "
+"service 1 here"
+msgstr ""
+
+#: inc/customizer.php:1012
+msgid ""
+"Description text about "
+"service 1"
+msgstr ""
+
+#: inc/customizer.php:1019
+msgid "About Service 1"
+msgstr ""
+
+#: inc/customizer.php:1020
+msgid ""
+"Please, type your "
+"description text about "
+"service 1 here"
+msgstr ""
+
+#: inc/customizer.php:1038
+msgid "Link the service 1"
+msgstr ""
+
+#: inc/customizer.php:1039
+msgid ""
+"Please, type your "
+"service 1 link here"
+msgstr ""
+
+#: inc/customizer.php:1056
+msgid "Service 2 Image"
+msgstr ""
+
+#: inc/customizer.php:1066
+msgid "Name service 2 Here"
+msgstr ""
+
+#: inc/customizer.php:1073
+msgid "Name service 2"
+msgstr ""
+
+#: inc/customizer.php:1074
+msgid ""
+"Please, type your name "
+"service 2 here"
+msgstr ""
+
+#: inc/customizer.php:1084
+msgid ""
+"Description text about "
+"service 2"
+msgstr ""
+
+#: inc/customizer.php:1091
+msgid "About Service 2"
+msgstr ""
+
+#: inc/customizer.php:1092
+msgid ""
+"Please, type your "
+"description text about "
+"service 2 here"
+msgstr ""
+
+#: inc/customizer.php:1110
+msgid "Link the service 2"
+msgstr ""
+
+#: inc/customizer.php:1111
+msgid ""
+"Please, type your "
+"service 2 link here"
+msgstr ""
+
+#: inc/customizer.php:1128
+msgid "Service 3 Image"
+msgstr ""
+
+#: inc/customizer.php:1138
+msgid "Name service 3 Here"
+msgstr ""
+
+#: inc/customizer.php:1145
+msgid "Name service 3"
+msgstr ""
+
+#: inc/customizer.php:1146
+msgid ""
+"Please, type your name "
+"service 3 here"
+msgstr ""
+
+#: inc/customizer.php:1156
+msgid ""
+"Description text about "
+"service 3"
+msgstr ""
+
+#: inc/customizer.php:1163
+msgid " About Service 3 "
+msgstr ""
+
+#: inc/customizer.php:1164
+msgid ""
+"Please, type your "
+"description text about "
+"service 3 here"
+msgstr ""
+
+#: inc/customizer.php:1182
+msgid "Link the service 3"
+msgstr ""
+
+#: inc/customizer.php:1183
+msgid ""
+"Please, type your "
+"service 3 link here"
+msgstr ""
+
+#: inc/customizer.php:1200
+msgid "Service 4 Image"
+msgstr ""
+
+#: inc/customizer.php:1210
+msgid "Name service 4 Here"
+msgstr ""
+
+#: inc/customizer.php:1217
+msgid "Name service 4"
+msgstr ""
+
+#: inc/customizer.php:1218
+msgid ""
+"Please, type your name "
+"service 4 here"
+msgstr ""
+
+#: inc/customizer.php:1228
+msgid ""
+"Description text about "
+"service 4"
+msgstr ""
+
+#: inc/customizer.php:1235
+msgid "About Service 4"
+msgstr ""
+
+#: inc/customizer.php:1236
+msgid ""
+"Please, type your "
+"description text about "
+"service 4 here"
+msgstr ""
+
+#: inc/customizer.php:1254
+msgid "Link the service 4"
+msgstr ""
+
+#: inc/customizer.php:1255
+msgid ""
+"Please, type your "
+"service 4 link here"
+msgstr ""
+
+#: inc/customizer.php:1272
+msgid "Service 5 Image"
+msgstr ""
+
+#: inc/customizer.php:1282
+msgid "Name service 5 Here"
+msgstr ""
+
+#: inc/customizer.php:1289
+msgid "Name service 5"
+msgstr ""
+
+#: inc/customizer.php:1290
+msgid ""
+"Please, type your name "
+"service 5 here"
+msgstr ""
+
+#: inc/customizer.php:1300
+msgid ""
+"Description text about "
+"service 5"
+msgstr ""
+
+#: inc/customizer.php:1307
+msgid "About Service 5"
+msgstr ""
+
+#: inc/customizer.php:1308
+msgid ""
+"Please, type your "
+"description text about "
+"service 5 here"
+msgstr ""
+
+#: inc/customizer.php:1326
+msgid "Link the service 5"
+msgstr ""
+
+#: inc/customizer.php:1327
+msgid ""
+"Please, type your "
+"service 5 link here"
+msgstr ""
+
+#: inc/customizer.php:1344
+msgid "Service 6 Image"
+msgstr ""
+
+#: inc/customizer.php:1354
+msgid "Name service 6 Here"
+msgstr ""
+
+#: inc/customizer.php:1361
+msgid "Name service 6"
+msgstr ""
+
+#: inc/customizer.php:1362
+msgid ""
+"Please, type your name "
+"service 6 here"
+msgstr ""
+
+#: inc/customizer.php:1372
+msgid ""
+"Description text about "
+"service 6"
+msgstr ""
+
+#: inc/customizer.php:1379
+msgid "About Service 6"
+msgstr ""
+
+#: inc/customizer.php:1380
+msgid ""
+"Please, type your "
+"description text about "
+"service 6 here"
+msgstr ""
+
+#: inc/customizer.php:1398
+msgid "Link the service 6"
+msgstr ""
+
+#: inc/customizer.php:1399
+msgid ""
+"Please, type your "
+"service 6 link here"
+msgstr ""
+
+#: inc/customizer.php:1416
+msgid "Service 7 Image"
+msgstr ""
+
+#: inc/customizer.php:1426
+msgid "Name service 7 Here"
+msgstr ""
+
+#: inc/customizer.php:1433
+msgid "Name service 7"
+msgstr ""
+
+#: inc/customizer.php:1434
+msgid ""
+"Please, type your name "
+"service 7 here"
+msgstr ""
+
+#: inc/customizer.php:1444
+msgid ""
+"Description text about "
+"service 7"
+msgstr ""
+
+#: inc/customizer.php:1451
+msgid "About Service 7"
+msgstr ""
+
+#: inc/customizer.php:1452
+msgid ""
+"Please, type your "
+"description text about "
+"service 7 here"
+msgstr ""
+
+#: inc/customizer.php:1470
+msgid "Link the service 7"
+msgstr ""
+
+#: inc/customizer.php:1471
+msgid ""
+"Please, type your "
+"service 7 link here"
+msgstr ""
+
+#: inc/customizer.php:1488
+msgid "Service 8 Image"
+msgstr ""
+
+#: inc/customizer.php:1498
+msgid "Name service 8 Here"
+msgstr ""
+
+#: inc/customizer.php:1505
+msgid "Name service 8"
+msgstr ""
+
+#: inc/customizer.php:1506
+msgid ""
+"Please, type your name "
+"service 8 here"
+msgstr ""
+
+#: inc/customizer.php:1516
+msgid ""
+"Description text about "
+"service 8"
+msgstr ""
+
+#: inc/customizer.php:1523
+msgid "About Service 8"
+msgstr ""
+
+#: inc/customizer.php:1524
+msgid ""
+"Please, type your "
+"description text about "
+"service 8 here"
+msgstr ""
+
+#: inc/customizer.php:1542
+msgid "Link the service 8"
+msgstr ""
+
+#: inc/customizer.php:1543
+msgid ""
+"Please, type your "
+"service 8 link here"
+msgstr ""
+
+#: inc/customizer.php:1553
+msgid "Partners Settings"
+msgstr ""
+
+#: inc/customizer.php:1554
+msgid ""
+"Add content partners here"
+msgstr ""
+
+#: inc/customizer.php:1562
+msgid "Partner title Here"
+msgstr ""
+
+#: inc/customizer.php:1570
+msgid ""
+"Please, type your "
+"partner title here"
+msgstr ""
+
+#: inc/customizer.php:1580
+msgid ""
+"Description text your "
+"partners"
+msgstr ""
+
+#: inc/customizer.php:1587
+msgid "Partners Text Area"
+msgstr ""
+
+#: inc/customizer.php:1588
+msgid ""
+"Please, type your "
+"description text your "
+"partners here"
+msgstr ""
+
+#: inc/customizer.php:1605
+msgid "Partner 1 Image"
+msgstr ""
+
+#: inc/customizer.php:1622
+msgid "Partner 2 Image"
+msgstr ""
+
+#: inc/customizer.php:1639
+msgid "Partner 3 Image"
+msgstr ""
+
+#: inc/customizer.php:1656
+msgid "Partner 4 Image"
+msgstr ""
+
+#: inc/customizer.php:1666
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer.php:1667
+msgid ""
+"Add content blog here"
+msgstr ""
+
+#: inc/customizer.php:1675
+msgid "Blog title Here"
+msgstr ""
+
+#: inc/customizer.php:1682
+msgid "Blog Title"
+msgstr ""
+
+#: inc/customizer.php:1683
+msgid ""
+"Please, type your blog "
+"title here"
+msgstr ""
+
+#: inc/customizer.php:1693
+msgid ""
+"Description text your "
+"blog"
+msgstr ""
+
+#: inc/customizer.php:1700
+msgid "Blog Text Area"
+msgstr ""
+
+#: inc/customizer.php:1701
+msgid ""
+"Please, type your "
+"description text your "
+"blog here"
+msgstr ""
+
+#: inc/customizer.php:1717
+msgid "Posts per page"
+msgstr ""
+
+#: inc/customizer.php:1718
+msgid ""
+"How many items to "
+"display in the post list?"
+msgstr ""
+
+#: inc/customizer.php:1734
+msgid ""
+"Post categories to "
+"include"
+msgstr ""
+
+#: inc/customizer.php:1735
+#: inc/customizer.php:1752
+msgid ""
+"Comma separated values "
+"or single category ID"
+msgstr ""
+
+#: inc/customizer.php:1751
+msgid ""
+"Post categories to "
+"exclude"
+msgstr ""
+
+#: inc/customizer.php:1761
+msgid "Contact Settings"
+msgstr ""
+
+#: inc/customizer.php:1762
+msgid ""
+"Add content contact here"
+msgstr ""
+
+#: inc/customizer.php:1770
+msgid "Contact title Here"
+msgstr ""
+
+#: inc/customizer.php:1777
+msgid "Contact Title"
+msgstr ""
+
+#: inc/customizer.php:1778
+msgid ""
+"Please, type your "
+"contact title here"
+msgstr ""
+
+#: inc/customizer.php:1788
+msgid ""
+"Description text your "
+"contact"
+msgstr ""
+
+#: inc/customizer.php:1795
+msgid "Contact Text Area"
+msgstr ""
+
+#: inc/customizer.php:1796
+msgid ""
+"Please, type your "
+"description text your "
+"contact here"
+msgstr ""
+
+#: inc/customizer.php:1806
+msgid "Phone number Here"
+msgstr ""
+
+#: inc/customizer.php:1813
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer.php:1814
+msgid ""
+"Please, type your number "
+"phone here"
+msgstr ""
+
+#: inc/customizer.php:1824
+msgid ""
+"Cellphone number Here"
+msgstr ""
+
+#: inc/customizer.php:1831
+msgid "Cellphone Number"
+msgstr ""
+
+#: inc/customizer.php:1832
+msgid ""
+"Please, type your number "
+"cellphone here"
+msgstr ""
+
+#: inc/customizer.php:1850
+msgid "Link the cellphone"
+msgstr ""
+
+#: inc/customizer.php:1851
+msgid ""
+"Please, type your link "
+"the cellphone(Whatsapp, "
+"Telegran...) here"
+msgstr ""
+
+#: inc/customizer.php:1867
+msgid ""
+"Your Setting with email "
+"input"
+msgstr ""
+
+#: inc/customizer.php:1885
+msgid "Link the e-mail"
+msgstr ""
+
+#: inc/customizer.php:1886
+msgid ""
+"Please, type your link "
+"the e-mail here"
+msgstr ""
+
+#: inc/customizer.php:1914
+msgid "Footer Bar Settings"
+msgstr ""
+
+#: inc/customizer.php:1915
+msgid ""
+"Add content footer bar "
+"here"
+msgstr ""
+
+#: inc/customizer.php:1923
+msgid ""
+"Institutional Title Here"
+msgstr ""
+
+#: inc/customizer.php:1930
+msgid ""
+"Institutional Title "
+"Footer"
+msgstr ""
+
+#: inc/customizer.php:1931
+msgid ""
+"Please, type your "
+"institutional title "
+"footer here"
+msgstr ""
+
+#: inc/customizer.php:1941
+msgid "About Footer Here"
+msgstr ""
+
+#: inc/customizer.php:1948
+msgid "About Footer"
+msgstr ""
+
+#: inc/customizer.php:1949
+msgid ""
+"Please, type your about "
+"footer here"
+msgstr ""
+
+#: inc/customizer.php:1967
+msgid "Link the about"
+msgstr ""
+
+#: inc/customizer.php:1968
+msgid ""
+"Please, type your link "
+"the about here"
+msgstr ""
+
+#: inc/customizer.php:1978
+msgid "Team Footer Here"
+msgstr ""
+
+#: inc/customizer.php:1985
+msgid "Team Footer"
+msgstr ""
+
+#: inc/customizer.php:1986
+msgid ""
+"Please, type your team "
+"footer here"
+msgstr ""
+
+#: inc/customizer.php:2004
+msgid "Link the team"
+msgstr ""
+
+#: inc/customizer.php:2005
+msgid ""
+"Please, type your link "
+"the team here"
+msgstr ""
+
+#: inc/customizer.php:2015
+msgid ""
+"Services Footer Here"
+msgstr ""
+
+#: inc/customizer.php:2022
+msgid "Services Footer"
+msgstr ""
+
+#: inc/customizer.php:2023
+#: inc/customizer.php:2208
+msgid ""
+"Please, type your "
+"services footer here"
+msgstr ""
+
+#: inc/customizer.php:2041
+msgid "Link the services"
+msgstr ""
+
+#: inc/customizer.php:2042
+msgid ""
+"Please, type your link "
+"the services here"
+msgstr ""
+
+#: inc/customizer.php:2052
+msgid ""
+"Partners Footer Here"
+msgstr ""
+
+#: inc/customizer.php:2059
+msgid "Partners Footer"
+msgstr ""
+
+#: inc/customizer.php:2060
+msgid ""
+"Please, type your "
+"partners footer here"
+msgstr ""
+
+#: inc/customizer.php:2078
+msgid "Link the partners"
+msgstr ""
+
+#: inc/customizer.php:2079
+msgid ""
+"Please, type your link "
+"the partners here"
+msgstr ""
+
+#: inc/customizer.php:2089
+msgid "Blog Footer Here"
+msgstr ""
+
+#: inc/customizer.php:2096
+msgid "Blog Footer"
+msgstr ""
+
+#: inc/customizer.php:2097
+msgid ""
+"Please, type your blog "
+"footer here"
+msgstr ""
+
+#: inc/customizer.php:2115
+msgid "Link the blog"
+msgstr ""
+
+#: inc/customizer.php:2116
+msgid ""
+"Please, type your link "
+"the blog here"
+msgstr ""
+
+#: inc/customizer.php:2126
+msgid "Contact Footer Here"
+msgstr ""
+
+#: inc/customizer.php:2133
+msgid "Contact Footer"
+msgstr ""
+
+#: inc/customizer.php:2134
+msgid ""
+"Please, type your "
+"contact footer here"
+msgstr ""
+
+#: inc/customizer.php:2152
+msgid "Link the contact"
+msgstr ""
+
+#: inc/customizer.php:2153
+msgid ""
+"Please, type your link "
+"the contact here"
+msgstr ""
+
+#: inc/customizer.php:2163
+msgid ""
+"Privacy Policy Footer "
+"Here"
+msgstr ""
+
+#: inc/customizer.php:2170
+msgid ""
+"Privacy Policy Footer"
+msgstr ""
+
+#: inc/customizer.php:2171
+msgid ""
+"Please, type your "
+"privacy policy footer "
+"here"
+msgstr ""
+
+#: inc/customizer.php:2189
+msgid ""
+"Link the Privacy Policy"
+msgstr ""
+
+#: inc/customizer.php:2190
+msgid ""
+"Please, type your link "
+"the privacy policy here"
+msgstr ""
+
+#: inc/customizer.php:2200
+msgid ""
+"Services Title Footer "
+"Here"
+msgstr ""
+
+#: inc/customizer.php:2207
+msgid ""
+"Services Title Footer"
+msgstr ""
+
+#: inc/customizer.php:2218
+msgid ""
+"Service 1 Footer Here"
+msgstr ""
+
+#: inc/customizer.php:2225
+msgid "Service 1 Footer"
+msgstr ""
+
+#: inc/customizer.php:2226
+msgid ""
+"Please, type your "
+"service 1 footer here"
+msgstr ""
+
+#: inc/customizer.php:2244
+msgid "Link the Service 1"
+msgstr ""
+
+#: inc/customizer.php:2245
+msgid ""
+"Please, type your link "
+"the service 1 here"
+msgstr ""
+
+#: inc/customizer.php:2255
+msgid ""
+"Service 2 Footer Here"
+msgstr ""
+
+#: inc/customizer.php:2262
+msgid "Service 2 Footer"
+msgstr ""
+
+#: inc/customizer.php:2263
+msgid ""
+"Please, type your "
+"service 2 footer here"
+msgstr ""
+
+#: inc/customizer.php:2281
+msgid "Link the Service 2"
+msgstr ""
+
+#: inc/customizer.php:2282
+msgid ""
+"Please, type your link "
+"the service 2 here"
+msgstr ""
+
+#: inc/customizer.php:2292
+msgid ""
+"Service 3 Footer Here"
+msgstr ""
+
+#: inc/customizer.php:2299
+msgid "Service 3 Footer"
+msgstr ""
+
+#: inc/customizer.php:2300
+msgid ""
+"Please, type your "
+"service 3 footer here"
+msgstr ""
+
+#: inc/customizer.php:2318
+msgid "Link the Service 3"
+msgstr ""
+
+#: inc/customizer.php:2319
+msgid ""
+"Please, type your link "
+"the service 3 here"
+msgstr ""
+
+#: inc/customizer.php:2329
+msgid ""
+"Service 4 Footer Here"
+msgstr ""
+
+#: inc/customizer.php:2336
+msgid "Service 4 Footer"
+msgstr ""
+
+#: inc/customizer.php:2337
+msgid ""
+"Please, type your "
+"service 4 footer here"
+msgstr ""
+
+#: inc/customizer.php:2355
+msgid "Link the Service 4"
+msgstr ""
+
+#: inc/customizer.php:2356
+msgid ""
+"Please, type your link "
+"the service 4 here"
+msgstr ""
+
+#: inc/customizer.php:2366
+msgid ""
+"Service 5 Footer Here"
+msgstr ""
+
+#: inc/customizer.php:2373
+msgid "Service 5 Footer"
+msgstr ""
+
+#: inc/customizer.php:2374
+msgid ""
+"Please, type your "
+"service 5 footer here"
+msgstr ""
+
+#: inc/customizer.php:2392
+msgid "Link the Service 5"
+msgstr ""
+
+#: inc/customizer.php:2393
+msgid ""
+"Please, type your link "
+"the service 5 here"
+msgstr ""
+
+#: inc/customizer.php:2403
+msgid ""
+"Service 6 Footer Here"
+msgstr ""
+
+#: inc/customizer.php:2410
+msgid "Service 6 Footer"
+msgstr ""
+
+#: inc/customizer.php:2411
+msgid ""
+"Please, type your "
+"service 6 footer here"
+msgstr ""
+
+#: inc/customizer.php:2429
+msgid "Link the Service 6"
+msgstr ""
+
+#: inc/customizer.php:2430
+msgid ""
+"Please, type your link "
+"the service 6 here"
+msgstr ""
+
+#: index.php:8
+msgid "Blog"
+msgstr ""
+
+#: parts/content-about.php:2
+#: parts/content-footer-menu.php:3
+msgid ""
+"Please, type some about "
+"title"
+msgstr ""
+
+#: parts/content-about.php:3
+msgid ""
+"Please, type some about "
+"us text"
+msgstr ""
+
+#: parts/content-blog.php:6
+#: parts/content-search.php:12
+#: parts/content-single.php:4
+#: parts/content.php:5
+msgid "by"
+msgstr ""
+
+#: parts/content-blog.php:7
+#: parts/content.php:6
+msgid "Categories"
+msgstr ""
+
+#: parts/content-blog.php:8
+#: parts/content.php:7
+msgid "Tags"
+msgstr ""
+
+#: parts/content-contact.php:2
+#: parts/content-footer-menu.php:13
+msgid ""
+"Please, type some "
+"contact title"
+msgstr ""
+
+#: parts/content-contact.php:3
+msgid ""
+"Please, type some "
+"contact subtitle"
+msgstr ""
+
+#: parts/content-contact.php:4
+msgid ""
+"Please, type some "
+"contact phone"
+msgstr ""
+
+#: parts/content-contact.php:5
+msgid ""
+"Please, type some "
+"contact cellphone"
+msgstr ""
+
+#: parts/content-contact.php:7
+msgid ""
+"Please, type some "
+"contact e-mail"
+msgstr ""
+
+#: parts/content-contact.php:9
+#: parts/content-top-bar.php:4
+msgid ""
+"Please, type some address"
+msgstr ""
+
+#: parts/content-footer-menu.php:2
+msgid ""
+"Please, type some "
+"institutional title"
+msgstr ""
+
+#: parts/content-footer-menu.php:5
+#: parts/content-team.php:3
+msgid ""
+"Please, type some team "
+"title"
+msgstr ""
+
+#: parts/content-footer-menu.php:7
+#: parts/content-footer-services.php:2
+#: parts/content-services.php:2
+msgid ""
+"Please, type some "
+"services title"
+msgstr ""
+
+#: parts/content-footer-menu.php:9
+#: parts/content-partners.php:2
+msgid ""
+"Please, type some "
+"partners title"
+msgstr ""
+
+#: parts/content-footer-menu.php:11
+#: parts/content-home-blog.php:2
+msgid ""
+"Please, type some blog "
+"title"
+msgstr ""
+
+#: parts/content-footer-menu.php:15
+msgid ""
+"Please, type some "
+"privacy policy title"
+msgstr ""
+
+#: parts/content-footer-services.php:3
+msgid ""
+"Please, type some "
+"service 1"
+msgstr ""
+
+#: parts/content-footer-services.php:5
+msgid ""
+"Please, type some "
+"service 2"
+msgstr ""
+
+#: parts/content-footer-services.php:7
+msgid ""
+"Please, type some "
+"service 3"
+msgstr ""
+
+#: parts/content-footer-services.php:9
+msgid ""
+"Please, type some "
+"service 4"
+msgstr ""
+
+#: parts/content-footer-services.php:11
+msgid ""
+"Please, type some "
+"service 5"
+msgstr ""
+
+#: parts/content-footer-services.php:13
+msgid ""
+"Please, type some "
+"service 6"
+msgstr ""
+
+#: parts/content-footer.php:6
+msgctxt ""
+"copyright date format"
+msgid "Y"
+msgstr ""
+
+#: parts/content-footer.php:8
+msgid "All Rights Reserved"
+msgstr ""
+
+#: parts/content-footer.php:11
+msgid "Developed by"
+msgstr ""
+
+#: parts/content-hero.php:2
+msgid ""
+"Please, type some banner "
+"title"
+msgstr ""
+
+#: parts/content-hero.php:3
+msgid ""
+"Please, type some banner "
+"subtitle"
+msgstr ""
+
+#: parts/content-hero.php:4
+msgid "Learn More"
+msgstr ""
+
+#: parts/content-hero1.php:2
+msgid ""
+"Please, type some slide "
+"title 1"
+msgstr ""
+
+#: parts/content-hero1.php:3
+msgid ""
+"Please, type some slide "
+"subtitle 1"
+msgstr ""
+
+#: parts/content-hero1.php:4
+msgid "Learn More 1"
+msgstr ""
+
+#: parts/content-hero1.php:7
+msgid ""
+"Please, type some slide "
+"title 2"
+msgstr ""
+
+#: parts/content-hero1.php:8
+msgid ""
+"Please, type some slide "
+"subtitle 2"
+msgstr ""
+
+#: parts/content-hero1.php:9
+msgid "Learn More 2"
+msgstr ""
+
+#: parts/content-hero1.php:12
+msgid ""
+"Please, type some slide "
+"title 3"
+msgstr ""
+
+#: parts/content-hero1.php:13
+msgid ""
+"Please, type some slide "
+"subtitle 3"
+msgstr ""
+
+#: parts/content-hero1.php:14
+msgid "Learn More 3"
+msgstr ""
+
+#: parts/content-home-blog.php:3
+msgid ""
+"Please, type some blog "
+"subtitle"
+msgstr ""
+
+#: parts/content-partners.php:3
+msgid ""
+"Please, type some "
+"partners subtitle"
+msgstr ""
+
+#: parts/content-search.php:1
+msgid "Search results for:"
+msgstr ""
+
+#: parts/content-search.php:12
+#: parts/content-single.php:4
+#: parts/content.php:5
+msgid "Posted in"
+msgstr ""
+
+#: parts/content-search.php:13
+#: parts/content-single.php:5
+msgid "Categories:"
+msgstr ""
+
+#: parts/content-search.php:14
+#: parts/content-single.php:6
+msgid "Tags:"
+msgstr ""
+
+#: parts/content-services.php:3
+msgid ""
+"Please, type some "
+"services subtitle"
+msgstr ""
+
+#: parts/content-services.php:5
+msgid ""
+"Please, type some "
+"service name 1"
+msgstr ""
+
+#: parts/content-services.php:6
+msgid ""
+"Please, type some "
+"service about 1"
+msgstr ""
+
+#: parts/content-services.php:9
+msgid ""
+"Please, type some "
+"service name 2"
+msgstr ""
+
+#: parts/content-services.php:10
+msgid ""
+"Please, type some "
+"service about 2"
+msgstr ""
+
+#: parts/content-services.php:13
+msgid ""
+"Please, type some "
+"service name 3"
+msgstr ""
+
+#: parts/content-services.php:14
+msgid ""
+"Please, type some "
+"service about 3"
+msgstr ""
+
+#: parts/content-services.php:17
+msgid ""
+"Please, type some "
+"service name 4"
+msgstr ""
+
+#: parts/content-services.php:18
+msgid ""
+"Please, type some "
+"service about 4"
+msgstr ""
+
+#: parts/content-services.php:21
+msgid ""
+"Please, type some "
+"service name 5"
+msgstr ""
+
+#: parts/content-services.php:22
+msgid ""
+"Please, type some "
+"service about 5"
+msgstr ""
+
+#: parts/content-services.php:25
+msgid ""
+"Please, type some "
+"service name 6"
+msgstr ""
+
+#: parts/content-services.php:26
+msgid ""
+"Please, type some "
+"service about 6"
+msgstr ""
+
+#: parts/content-services.php:29
+msgid ""
+"Please, type some "
+"service name 7"
+msgstr ""
+
+#: parts/content-services.php:30
+msgid ""
+"Please, type some "
+"service about 7"
+msgstr ""
+
+#: parts/content-services.php:33
+msgid ""
+"Please, type some "
+"service name 8"
+msgstr ""
+
+#: parts/content-services.php:34
+msgid ""
+"Please, type some "
+"service about 8"
+msgstr ""
+
+#: parts/content-team.php:4
+msgid ""
+"Please, type some team "
+"subtitle"
+msgstr ""
+
+#: parts/content-team.php:6
+msgid ""
+"Please, type some team "
+"name 1"
+msgstr ""
+
+#: parts/content-team.php:7
+msgid ""
+"Please, type some team "
+"about 1"
+msgstr ""
+
+#: parts/content-team.php:9
+msgid ""
+"Please, type some team "
+"name 2"
+msgstr ""
+
+#: parts/content-team.php:10
+msgid ""
+"Please, type some team "
+"about 2"
+msgstr ""
+
+#: parts/content-team.php:12
+msgid ""
+"Please, type some team "
+"name 3"
+msgstr ""
+
+#: parts/content-team.php:13
+msgid ""
+"Please, type some team "
+"about 3"
+msgstr ""
+
+#: parts/content-team.php:15
+msgid ""
+"Please, type some team "
+"name 4"
+msgstr ""
+
+#: parts/content-team.php:16
+msgid ""
+"Please, type some team "
+"about 4"
+msgstr ""
+
+#: parts/content-team.php:18
+msgid ""
+"Please, type some team "
+"name 5"
+msgstr ""
+
+#: parts/content-team.php:19
+msgid ""
+"Please, type some team "
+"about 5"
+msgstr ""
+
+#: parts/content-team.php:21
+msgid ""
+"Please, type some team "
+"name 6"
+msgstr ""
+
+#: parts/content-team.php:22
+msgid ""
+"Please, type some team "
+"about 6"
+msgstr ""
+
+#: parts/content-top-bar.php:5
+msgid ""
+"Please, type some "
+"operation"
+msgstr ""
+
+#: parts/content-top-bar.php:6
+msgid ""
+"Please, type some phone"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search"
+msgstr ""
