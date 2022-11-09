@@ -6,22 +6,22 @@ Referente ao seu design, ele é um modelo para sites institucionais, alterando a
 
 Segue as informações do tema:
 
-Theme Name: Template Default
-Theme URI: https://manfron.com.br/
-Author: Adriano Manfron
-Author URI: https://manfron.com.br/
-Description: This theme is a default template to be used in some works for clients.
-Requires at least: 6.0
-Tested up to: 6.0
-Requires PHP: 8.0
-Version: 1.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: template-default
+Theme Name: Template Default<br>
+Theme URI: https://manfron.com.br/<br>
+Author: Adriano Manfron<br>
+Author URI: https://manfron.com.br/<br>
+Description: This theme is a default template to be used in some works for clients.<br>
+Requires at least: 6.0<br>
+Tested up to: 6.0<br>
+Requires PHP: 8.0<br>
+Version: 1.0<br>
+License: GNU General Public License v2 or later<br>
+License URI: http://www.gnu.org/licenses/gpl-2.0.html<br>
+Text Domain: template-default<br>
 Tags: blog, one-column, custom-menu, custom-logo, featured-images, footer-widgets, translation-ready
 
 ------------------------------------------------------------------------------------------------------------
 
-E-mail para contato: adriano@manfron.com.br
+E-mail para contato: adriano@manfron.com.br<br>
 Site: https://manfron.com.br
 
